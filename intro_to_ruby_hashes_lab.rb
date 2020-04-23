@@ -20,6 +20,9 @@ end
     four_pieces_owned: '200'
   }, 
   names: {
+    railroad: {},
+    railroad: {},
+    railroad: {},
     railroad: {}
   } }}
 
