@@ -20,10 +20,10 @@ end
     four_pieces_owned: '200'
   }, 
   names: {
-    railroad: {},
-    railroad: {},
-    railroad: {},
-    railroad: {}
+    reading_railroad: {},
+    b_and_o_railroad: {},
+    pennsylvania_railroad: {},
+    shortline_railroad: {}
   } }}
 
 end
